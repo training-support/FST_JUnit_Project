@@ -13,7 +13,7 @@ public class CalculatorTest {
     public void addTest() {
         int result1 = calc.add(10, 5);
         int result2 = calc.add(12, 3);
-        int result3 = calc.add(14, 1);
+        int result3 = calc.add(14, 2);
 
         // Assertion
         assertAll(

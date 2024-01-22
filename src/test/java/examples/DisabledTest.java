@@ -3,7 +3,6 @@ package examples;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.condition.DisabledIf;
 
 @Disabled("Disable test from class")
 public class DisabledTest {
